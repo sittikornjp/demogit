@@ -1,0 +1,11 @@
+C:\Users\Sittikorn\csharp\demogit\bin\Debug\netcoreapp2.1\demogit.deps.json
+C:\Users\Sittikorn\csharp\demogit\bin\Debug\netcoreapp2.1\demogit.runtimeconfig.json
+C:\Users\Sittikorn\csharp\demogit\bin\Debug\netcoreapp2.1\demogit.runtimeconfig.dev.json
+C:\Users\Sittikorn\csharp\demogit\bin\Debug\netcoreapp2.1\demogit.dll
+C:\Users\Sittikorn\csharp\demogit\bin\Debug\netcoreapp2.1\demogit.pdb
+C:\Users\Sittikorn\csharp\demogit\obj\Debug\netcoreapp2.1\demogit.csprojAssemblyReference.cache
+C:\Users\Sittikorn\csharp\demogit\obj\Debug\netcoreapp2.1\demogit.csproj.CoreCompileInputs.cache
+C:\Users\Sittikorn\csharp\demogit\obj\Debug\netcoreapp2.1\demogit.AssemblyInfoInputs.cache
+C:\Users\Sittikorn\csharp\demogit\obj\Debug\netcoreapp2.1\demogit.AssemblyInfo.cs
+C:\Users\Sittikorn\csharp\demogit\obj\Debug\netcoreapp2.1\demogit.dll
+C:\Users\Sittikorn\csharp\demogit\obj\Debug\netcoreapp2.1\demogit.pdb
